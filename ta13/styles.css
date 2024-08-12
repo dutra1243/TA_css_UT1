@@ -1,0 +1,23 @@
+.avatar.proportioned {
+    width: 40%;
+    height: 40%;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.original.proportioned {
+    width: 50%;
+    height: 50%;
+}
+
+.original.distorted {
+    width: 100px;
+    height: 200px;
+}
+
+img {
+    border: 1px solid black;
+}
