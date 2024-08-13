@@ -1,0 +1,41 @@
+@media (width < 1440px) {
+    p {
+        font-size: 24px;
+    }
+
+    body {
+        background: red;
+    }
+
+    img {
+        width: 50%;
+    }
+}
+
+@media (width < 768px) {
+    p {
+        font-size: 18px;
+    }
+
+    body {
+        background: green;
+    }
+
+    img {
+        width: 70%;
+    }
+}
+
+@media (width < 425px) {
+    p {
+        font-size: 14px;
+    }
+
+    body {
+        background: blue;
+    }
+
+    img {
+        width: 100%;
+    }
+}
